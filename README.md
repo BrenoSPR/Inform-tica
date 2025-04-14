@@ -1,4 +1,4 @@
-# Inform-tica
+# Informática
 # Aividade 1: Apresentração individual
 ![Captura de tela 2025-04-14 193949](https://github.com/user-attachments/assets/013e309c-f62a-46a2-a643-fa104f05ee79)
 https://www.canva.com/design/DAGfZkoFsf4/f1qjw4Z6ixLUFhjHb5SOig/edit?utm_content=DAGfZkoFsf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
