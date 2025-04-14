@@ -1,6 +1,6 @@
 # Inform-tica
 # Aividade 1: Apresentração individual
-![Captura de tela 2025-04-14 191742](https://github.com/user-attachments/assets/03d365cf-c37a-44b2-abb9-5632a88a379d)
+![Captura de tela 2025-04-14 193027](https://github.com/user-attachments/assets/00930520-de5f-4b4e-8846-06fd9b71b1ff)
 https://www.canva.com/design/DAGfZkoFsf4/f1qjw4Z6ixLUFhjHb5SOig/edit?utm_content=DAGfZkoFsf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Atividade 2: Dados abertos
@@ -9,6 +9,6 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/breno_ribas_fatec_sp_gov_br/
 # Atividade 3: powe BI
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/joao_vieira69_fatec_sp_gov_br/EeEZd6tcUbxGtfDoxetQMXQB53ETuLLyUyawKWnms84MlQ?e=UhDlub
 
-# Atividade 3: Dados Abertos
+# Atividade 4: Dados Abertos
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/joao_vieira69_fatec_sp_gov_br/EeEZd6tcUbxGtfDoxetQMXQB53ETuLLyUyawKWnms84MlQ?e=tWE5HT
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/joao_vieira69_fatec_sp_gov_br/EbQTTqKT1KlPrWFeoBW4lGoB1ci71YUF8wF9Xfh7vnRxzA?e=kKdAXL 
