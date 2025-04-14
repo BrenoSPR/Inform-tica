@@ -1,6 +1,7 @@
 # Inform-tica
 # Aividade 1: Apresentração individual
-![image](https://github.com/user-attachments/assets/1cb163e0-85d9-4d0f-8c7d-5d59af4f8946)
+![Captura de tela 2025-04-14 191742](https://github.com/user-attachments/assets/03d365cf-c37a-44b2-abb9-5632a88a379d)
+https://www.canva.com/design/DAGfZkoFsf4/f1qjw4Z6ixLUFhjHb5SOig/edit?utm_content=DAGfZkoFsf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Atividade 2: Dados abertos
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/breno_ribas_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023.xlsx?d=w20d14f0e4ffa48bdac521d3b9a73bafb&csf=1&web=1&e=DKwy67
