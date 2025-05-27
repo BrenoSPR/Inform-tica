@@ -17,3 +17,8 @@ https://fatecspgov-my.sharepoint.com/:u:/g/personal/joao_vieira69_fatec_sp_gov_b
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/joao_vieira69_fatec_sp_gov_br/EeEZd6tcUbxGtfDoxetQMXQB53ETuLLyUyawKWnms84MlQ?e=tWE5HT
 ![Captura de tela 2025-04-14 193734](https://github.com/user-attachments/assets/29ddc657-7324-42c3-848f-3117acaa8b9f)
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/joao_vieira69_fatec_sp_gov_br/EbQTTqKT1KlPrWFeoBW4lGoB1ci71YUF8wF9Xfh7vnRxzA?e=kKdAXL 
+
+
+# Regressão linear: Excel e Machine Learning
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/breno_ribas_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/HousePrices_HalfMil.xlsx?d=wd12a4350268b4298be61add7a6819311&csf=1&web=1&e=zJefqt
+![Captura de tela 2025-05-26 224750](https://github.com/user-attachments/assets/961ea495-53b9-4f63-bbb7-742e7ab7ae9f)
